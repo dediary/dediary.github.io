@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://dediary.github.io/sitemap.xml
